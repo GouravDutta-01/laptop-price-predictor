@@ -6,3 +6,5 @@ The user can input details about the laptop such as the Brand, Laptop Type, Proc
 The Random Forest Regression model is used here to predict the laptop prices.Random Forest Regression is a supervised learning algorithm that uses ensemble learning method for regression. Ensemble learning method is a technique that combines predictions from multiple machine learning algorithms to make a more accurate prediction than a single model.
 ## Dataset used
 https://www.kaggle.com/datasets/mohidabdulrehman/laptop-price-dataset
+## Project Demo
+![demo gif](https://github.com/GouravDutta-01/laptop-price-predictor/blob/main/demo.gif)
